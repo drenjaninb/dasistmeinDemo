@@ -1,2 +1,2 @@
 with open ('newnew.txt', 'w') as file:
-    file.write('...')
+    file.write('petak')
