@@ -1,1 +1,1 @@
-print("Hi zusammen").
+print("Hi zusammen")
